@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/damian-romero/covid19_mx/924d8de24975961391a27980c373c3ddf710e872?filepath=https%3A%2F%2Fgithub.com%2Fdamian-romero%2Fcovid19_mx%2Fblob%2Fmaster%2Fcovid%2Fcovid19mx_notebook.ipynb)
+
 ### COVID-19 México
 #### [covid19_mx](https://github.com/damian-romero/covid19_mx)
 #### ©Damian Romero
@@ -24,3 +26,6 @@
 
 *Hago una nueva actualización manual de los datos cada semana o antes, dependiendo de mi disponibilidad. Si requieres datos actuales te recomiendo ir directamente a la página del ECDC y bajar la versión CSV e integrarla a tu análisis.
 
+
+#### DEVS
+- ToDo: add ToDo file
