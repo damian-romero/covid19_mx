@@ -28,4 +28,4 @@
 
 
 #### DEVS
-- ToDo: add ToDo file
+- Please look at the ToDo.md file to see what remains to be done
