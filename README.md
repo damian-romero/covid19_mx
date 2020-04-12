@@ -16,6 +16,8 @@
 
 "The downloadable data file is updated daily and contains the latest available public data on COVID-19. Public-use data files allows users to manipulate the data in a format appropriate for their analyses. Users of ECDC public-use data files must comply with data use restrictions to ensure that the information will be used solely for statistical analysis or reporting purposes."
 
+**The copyright for the data can be found here: [https://www.ecdc.europa.eu/en/copyright]**
+
 - Este repositorio está distribuido con una licencia abierta typo MIT.
 - Escrito para Python 3.7+
 - El repositorio utiliza JupyterNotebooks y [mybinder](https://mybinder.org/) para integrar interactividad.
